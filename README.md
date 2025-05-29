@@ -17,10 +17,7 @@ OdontoSinistro.Tests	Testes unitários, integração e sistema
 📚 Documentação Swagger
 Disponível automaticamente ao executar a aplicação:
 
-bash
-Copiar
-Editar
-https://localhost:{porta}/swagger
+https://localhost:{7125}/swagger
 🧠 Funcionalidades de IA
 ✅ Previsão de Fraude com ML.NET
 Utiliza algoritmo de regressão logística com base nos seguintes atributos:
@@ -29,8 +26,6 @@ ValorReclamado: valor financeiro do sinistro
 
 TipoProcedimento: descrição do procedimento (Consulta, Implante, etc)
 
-Rota:
-POST /api/sinistro/prever-fraude
 Exemplo de body:
 {
   "valorReclamado": 1800,
@@ -48,9 +43,6 @@ Positivo
 Neutro
 
 Negativo
-
-Rota:
-http POST /api/sinistro/analise-sentimento
 
 Exemplo de body:
 
@@ -104,6 +96,7 @@ Execute o projeto OdontoSinistro.API
 Acesse o Swagger para testar os endpoints
 
 📦 Tecnologias Utilizadas
+
 ASP.NET Core Web API (.NET 6/7)
 
 Entity Framework Core
