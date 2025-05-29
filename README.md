@@ -51,12 +51,17 @@ Negativo
 
 Rota:
 http POST /api/sinistro/analise-sentimento
+
 Exemplo de body:
+
 "o atendimento foi péssimo e houve erro na cobrança"
-Exemplo de resposta:
+
+Exemplo de resposta
+
 {
   "sentimento": "Negativo"
 }
+
 🌐 Integração com Serviço Externo
 ViaCEP API utilizada para consultar o endereço do dentista com base no CEP.
 
