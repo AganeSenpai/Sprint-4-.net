@@ -3,7 +3,9 @@ API RESTful desenvolvida com ASP.NET Core Web API, seguindo os princípios de Cl
 
 Integrantes:
 Carlos Eduardo Ariza Sartorio RM553461
+
 Fernando Shinji Tanigushi RM553587
+
 João Vitor Valaitis Paulo RM553972
 
 🔧 Estrutura do Projeto
