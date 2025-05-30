@@ -1,7 +1,9 @@
 🦷 OdontoSinistro API
+
 API RESTful desenvolvida com ASP.NET Core Web API, seguindo os princípios de Clean Architecture, SOLID, Clean Code, com integração com serviços externos, ML.NET e inteligência artificial generativa.
 
 Integrantes:
+
 Carlos Eduardo Ariza Sartorio RM553461
 
 Fernando Shinji Tanigushi RM553587
