@@ -18,8 +18,11 @@ OdontoSinistro.Tests	Testes unitários, integração e sistema
 Disponível automaticamente ao executar a aplicação:
 
 https://localhost:{7125}/swagger
+
 🧠 Funcionalidades de IA
+
 ✅ Previsão de Fraude com ML.NET
+
 Utiliza algoritmo de regressão logística com base nos seguintes atributos:
 
 ValorReclamado: valor financeiro do sinistro
